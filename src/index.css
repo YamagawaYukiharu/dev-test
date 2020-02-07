@@ -1,0 +1,87 @@
+body {
+    position: relative;
+    width: 1200px;
+    height: 1138px;
+    background: #FAFAFB;
+  }
+  
+.menu {
+  position: absolute;
+  width: 1200px;
+  height: 72px;
+  left: 0;
+  top: 0;
+}
+
+.menu-background {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #212529;
+}
+
+.menu-logo {
+  position: absolute;
+  left: 3.75%;
+  right: 86.67%;
+  top: 22.22%;
+  bottom: 22.22%;
+}
+
+.menu-logo-tasks {
+  position: absolute;
+  left: 8.42%;
+  right: 86.67%;
+  top: 33.33%;
+  bottom: 31.94%;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: -0.02em;
+
+  color: #FFFFFF;
+
+}
+
+.menu-logo-icon {
+  position: absolute;
+  left: 3.75%;
+  right: 92.92%;
+  top: 22.22%;
+  bottom: 22.22%;
+}
+
+.menu-logo-icon-image {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 55px;
+  top: 26px;
+
+  font-family: Font Awesome 5 Free;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 100%;
+
+  text-align: center;
+
+  color: #FFFFFF;
+
+}
+
+.menu-logo-icon-background {
+  position: absolute;
+  left: 3.75%;
+  right: 92.92%;
+  top: 22.22%;
+  bottom: 22.22%;
+
+  background: #00A8FF;
+  border-radius: 4px;
+}
